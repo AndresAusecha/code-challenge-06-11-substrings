@@ -30,6 +30,6 @@ fun main(args: Array<String>) {
         }
     }
 
-    print(longestString)
-    print(longestString.length)
+    println("Longest string: $longestString")
+    println("Length: ${longestString.length}")
 }
