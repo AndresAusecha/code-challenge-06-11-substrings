@@ -31,4 +31,5 @@ fun main(args: Array<String>) {
     }
 
     print(longestString)
+    print(longestString.length)
 }
